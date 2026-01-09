@@ -12,13 +12,13 @@ Sistem ini dikembangkan menggunakan Native PHP dengan pendekatan OOP (Object-Ori
 ```
 TRIFTING/
 ├── app/
-│   ├── Controllers/   # Logika navigasi & aksi (Login, CRUD, dll)
-│   ├── Models/        # Interaksi langsung dengan Database
-│   └── Views/         # File template HTML/PHP (Bootstrap)
-├── assets/            # Gambar produk, CSS, dan JS
-├── config/            # Koneksi database.php
-├── .htaccess          # Konfigurasi Routing App
-└── index.php          # Front Controller (Main Entry Point)
+│   ├── Controllers/   
+│   ├── Models/        
+│   └── Views/         
+├── assets/           
+├── config/            
+├── .htaccess         
+└── index.php          
 ```
 
 ## Fitur Utama
