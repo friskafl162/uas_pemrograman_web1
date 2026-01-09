@@ -43,6 +43,9 @@ TRIFTING/
 ## Pagination
 <img width="428" height="75" alt="pagination(halaman)" src="https://github.com/user-attachments/assets/f8877d78-4ffa-4a34-9dbf-b2cf9578f216" />
 
+## Notif Delete
+<img width="929" height="466" alt="notif_delete" src="https://github.com/user-attachments/assets/062a162f-4c1b-4145-b72b-084773387565" />
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Arsitektur & Teknologi
